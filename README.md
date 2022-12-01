@@ -2,7 +2,9 @@
 ## C
 
 Directorio de trabajo (Working directory): Lugar en el que podemos modificar archivos y documentos en git. 
+
 Área de preparación (Staging area) : Lugar en el que podemos ver los estados de nuestros archivos, es temporal.
+
 Repositorio local (Directorio .git) : Lugar en el que se almacenan copias de nuestro proyecto.
 
 ## A
